@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 <p align="center">
-<a href="https://adns-tech.fr/">Website</a>
+<h2>→ <a href="https://adns-tech.fr/">Site Internet</a></h2>
 </p>
 
 ### Notre activité ?
-- Nous vendons des scripts/mappings/bot-discord/site web pour les gens qui souhaite crée un serveur fivem ou même quoi que ce soit qui est un rapport avec fivem.
+- Nous vendons des **Scripts**, **Bot Discord**, **Site Web** pour les gens qui souhaite crée un serveur fivem ou même quoi que ce soit qui est un rapport avec fivem.
 ### Qui sommes nous ?
-- Nous sommes une bande de potes qui aime découvrir pleins de nouveauté, Notre passion est le développement informatique.
+- Nous sommes une bande d'amis qui aime découvrir pleins de nouvelle choses.
 ### Nos objectifs ?
-- Nous voulons apprendre d'avantages et faire avancer les gens n'ayant pas les compétences nécessaire a coder dans le développement de leur serveur!
+- Nous voulons apporté des scripts de qualité a des serveur fivem & développer nos compétences personnel.
