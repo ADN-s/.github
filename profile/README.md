@@ -4,9 +4,6 @@
 <a href="https://adns-tech.fr/">Website</a>
 </p>
 
-# Introducing ADN's
-
-# Francais
 ### Notre activité ?
 - Nous vendons des scripts/mappings/bot-discord/site web pour les gens qui souhaite crée un serveur fivem ou même quoi que ce soit qui est un rapport avec fivem.
 ### Qui sommes nous ?
